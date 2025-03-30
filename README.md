@@ -8,7 +8,10 @@ The "Vehicle Sales and Market Trends Dataset" includes information on sales tran
 - **Transaction Information**: Selling prices, sale dates, and payment methods.
 - **Market Trends**: Manheim Market Report (MMR) values, which help assess the market value of each vehicle.
   
-Before analysis, data cleaning and pre-validation were performed to ensure data integrity. A major challenge was the presence of 10,301 missing values in the "make" column, which were addressed by using the **NHTSA API** to decode the VINs and fill in the missing vehicle details.
+Before analysis, data cleaning and pre-validation were performed to ensure data integrity. A major challenge was the presence of 10,301 missing values in the "make" column, which were addressed by using the **NHTSA API** to decode the VINs and fill in the missing vehicle details. 
+
+- **Dataset**: [Vehicle Sales and Market Trends Dataset on Kaggle](https://www.kaggle.com/datasets/syedanwarafridi/vehicle-sales-data)
+- **NHTSA API**: [Vehicle Information API (NHTSA)](https://vpic.nhtsa.dot.gov/api)
 
 ### **Key Metrics Calculated**
 - **Selling Price vs. MMR**: Comparison of the selling price with the estimated market price (MMR) to identify trends and price discrepancies.
