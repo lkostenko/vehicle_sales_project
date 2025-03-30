@@ -39,3 +39,8 @@ Before analysis, data cleaning and pre-validation were performed to ensure data 
 - **Dynamic Pricing**: Incorporating market trends and demand fluctuations into pricing strategies for better profitability.
 - **Targeted Marketing**: Focusing on specific regions and vehicle types that show higher demand (e.g., Ford in Texas).
 - **Color and Condition-Based Promotions**: Offering discounts or premium pricing for popular color and condition combinations.
+
+## Dashboard
+Explore the interactive analysis and key insights in the dashboard:
+[Vehicle Sales and Market Trends Dashboard](https://app.powerbi.com/view?r=eyJrIjoiZjI5YTAwYWMtYmIwZS00NGY2LTg1MGMtZWY4ZTVjMjkzMTQ2IiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9)
+
